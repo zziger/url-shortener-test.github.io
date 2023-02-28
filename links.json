@@ -1,0 +1,10 @@
+{
+    "separators": ["-", "/"],
+    "links": {
+        "cs$": "https://imgur.com",
+        "cs": {
+            "template": "https://google.com"
+        },
+        "c": "https://github.com"
+    }
+}
