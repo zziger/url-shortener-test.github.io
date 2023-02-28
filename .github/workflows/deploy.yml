@@ -31,7 +31,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
       - name: Generate shortened URL files
-        uses: zziger/url-shortener-action@v0.2
+        uses: zziger/url-shortener-action@v0.3
         with:
           who-to-greet: 'Test'
       - name: Setup Pages
